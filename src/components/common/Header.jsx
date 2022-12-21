@@ -7,7 +7,7 @@ function Header({text = "Default", textColor= "white", bgColor = "red"}) {
 
    const headerStyles = {
       backgroundColor: bgColor,
-      height: "600px",
+      // height: "600px",
    }
 
   return (
